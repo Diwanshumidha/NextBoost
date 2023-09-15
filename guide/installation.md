@@ -24,4 +24,4 @@ cd [project-name]
 
 You can now start developing your Next.js application!
 
-Remember to replace [project-name] in the instructions with the actual name you want to give to your project. This will create a clear and informative 'Installation' page in your Vue
+Remember to replace [project-name] in the instructions with the actual name you want to give to your project.

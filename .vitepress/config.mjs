@@ -2,11 +2,18 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
+
   title: "NextBoost Docs",
   description: "A VitePress Site",
+
+  lastUpdated: true,
+  cleanUrls: true,
+
+  head: [['link', { rel: 'icon', href: '/public/favicon.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo:"https://cdn-icons-png.flaticon.com/512/5731/5731863.png",
+    logo:"/icon.png",
     search: {
       provider: 'local'
     },
@@ -36,7 +43,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Diwanshumidha/NextBoost' }
     ]
   }
 })
