@@ -3,6 +3,10 @@
 
 Welcome to Nextboost! Nextboost is here to help you kickstart your custom code projects. With Nextboost, you can generate starter code using various templates tailored to your needs. Let's explore the exciting templates available to make your development journey smoother.
 
+![image](https://github.com/Diwanshumidha/NextBoost/assets/125127610/9444dc84-08b2-4a7d-9929-312184132c31)
+![image](https://github.com/Diwanshumidha/NextBoost/assets/125127610/334a86b8-9a06-4cab-910c-82d7b7989882)
+
+
 ## Installation
 
 To get started with Nextboost, you can use the following command to install it globally:
